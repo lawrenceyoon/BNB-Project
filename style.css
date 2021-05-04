@@ -222,7 +222,6 @@ footer p {
   #host {
     display: flex;
     align-items: center;
-    border: 1px solid purple;
   }
 
   #host .host-group {
