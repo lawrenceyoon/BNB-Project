@@ -60,7 +60,7 @@ header {
 
 .logo {
   font-family: 'Pangolin', cursive;
-  font-size: 72px;
+  font-size: 42px;
   color: #fff;
 }
 
@@ -127,6 +127,9 @@ form .select {
 }
 
 /* ------- Ideas ------- */
+#ideas .invis-mobile {
+  display: none;
+}
 
 /* ------- Footer ------- */
 
@@ -194,6 +197,8 @@ footer p {
     width: 250px;
     padding: 30px;
   }
+
+  /* ------- Ideas ------- */
 }
 
 @media all and (min-width: 800px) {
@@ -216,6 +221,42 @@ footer p {
 
   #about img {
     padding: 10px;
+  }
+
+  /* ------- Ideas ------- */
+
+  #ideas .ideas-container {
+    display: flex;
+    justify-content: space-between;
+    width: 900px;
+    margin: 40px auto;
+  }
+
+  #ideas img {
+    width: 350px;
+    padding: 20px;
+  }
+
+  #ideas .forests {
+    display: flex;
+    flex-direction: column;
+  }
+
+  #ideas .beaches {
+    display: flex;
+    flex-direction: column;
+  }
+
+  #ideas .invis-mobile {
+    display: inline-block;
+  }
+
+  #ideas .rustic-cabins {
+    display: none;
+  }
+
+  #ideas .pet-friendly {
+    display: none;
   }
 
   /* ------- Host ------- */
