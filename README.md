@@ -36,3 +36,6 @@ Use VSCode Live Server to launch the `index.html` page in your browser.
   - a `"Search"` button
 
 ![Search form mobile](./images/search-form-mobile.png)
+
+## View App
+https://lawrenceyoon.github.io/BNB-Project/
