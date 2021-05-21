@@ -2,6 +2,9 @@
 
 A project developed by me from Thinkful's course. Made mobile-friendly first.
 
+## View App
+https://lawrenceyoon.github.io/BNB-Project/
+
 Thinkfulbnb is a vacation rental website that allows people to rent out their homes to people who are seeking short-term accommodations in that locale. Thinkfulbnb hosts rent out different kinds of properties, including single rooms, apartments, and unique living spaces such as yachts, houseboats, yurts, tiny houses, and even renovated medieval castles.
 
 ### Mobile view
@@ -36,6 +39,3 @@ Use VSCode Live Server to launch the `index.html` page in your browser.
   - a `"Search"` button
 
 ![Search form mobile](./images/search-form-mobile.png)
-
-## View App
-https://lawrenceyoon.github.io/BNB-Project/
