@@ -1,4 +1,4 @@
-# Thinkfulbnb
+# BNB Project
 
 A project developed by me from Thinkful's course. Made mobile-friendly first.
 
